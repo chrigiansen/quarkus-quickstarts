@@ -55,6 +55,7 @@ See [CONTRIBUTING](CONTRIBUTING.md) for how to build these examples.
 * [Hibernate ORM Multitenancy](./hibernate-orm-quickstart-multi-tenancy): Multitenant CRUD service over REST using Hibernate ORM to connect to a PostgreSQL database (schema or database approach)
 * [Hibernate Search + Elasticsearch](./hibernate-search-orm-elasticsearch-quickstart): Index your Hibernate entities in Elasticsearch to get full text search
 * [Infinispan Client](./infinispan-client-quickstart): How to use Infinispan Client. Covers creating caches and simple get/put
+* [Hibernate Search + Elasticsearch](./hibernate-search-orm-elasticsearch-quickstart): Index your Hibernate entities in Elasticsearch to get full text search
 * [Artemis JMS](./jms-quickstart): How to use the Artemis JMS extension
 * [Kafka](./kafka-quickstart): Use MicroProfile Reactive Messaging to interact with Apache Kafka
 * [Kafka and Hibernate with Panache](./kafka-panache-quickstart): Shows how to combine Kafka and (_classic_) Hibernate with Panache
